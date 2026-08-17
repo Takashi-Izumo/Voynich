@@ -1,0 +1,41 @@
+page,locus,paragraph,line_in_paragraph,start_mode,token_count,observed_tokens
+f2r,f2r.1,1,1,PARAGRAPH_START,6,kydainy ypchol daiin otchal ypchaiin ckholsy
+f2r,f2r.2,1,2,NEUTRAL_RESTART,5,dorchory chkar s shor cthy
+f2r,f2r.3,1,3,NEUTRAL_RESTART,7,qotaiin cthey y chor chy ydy chaiin
+f2r,f2r.4,1,4,NEUTRAL_RESTART,6,chtod dy cphy dals chokaiin d
+f2r,f2r.5,1,5,NEUTRAL_RESTART,7,otochor al shodaiin chol dan ytchaiin dan
+f2r,f2r.6,1,6,NEUTRAL_RESTART,9,saiin dain d dkol sor ytoldy dchol dchy cthy
+f2r,f2r.7,1,7,NEUTRAL_RESTART,5,shor ckhy daiiny chol dan
+f2r,f2r.8,2,1,PARAGRAPH_START,9,kydain shaiin qoy s shol fodan yksh olsheey daiildy
+f2r,f2r.9,2,2,NEUTRAL_RESTART,11,dls sho kol sheey qokey ykody so chol yky dain daiisol
+f2r,f2r.10,2,3,NEUTRAL_RESTART,7,cholaiin shol sheky daiin cthey keol saiin
+f2r,f2r.11,2,4,NEUTRAL_RESTART,9,ychain dal chy dalor shan dan olsaiin sheey ckhor
+f2r,f2r.12,2,5,NEUTRAL_RESTART,11,okol chy chor cthor yor an chan saiin chety chyky sal
+f2r,f2r.13,2,6,NEUTRAL_RESTART,5,sho ykeey chey daiin chcthy
+f2v,f2v.1,3,1,PARAGRAPH_START,8,kooiin cheo pchor otaiin odain chor dair shty
+f2v,f2v.2,3,2,NEUTRAL_RESTART,9,kcho kchy sho shol qotcho loeees qoty chor daiin
+f2v,f2v.3,3,3,NEUTRAL_RESTART,8,otchy chor lshy chol chody chodain chcthy daiin
+f2v,f2v.4,3,4,NEUTRAL_RESTART,4,sho cholo cheor chodaiin
+f2v,f2v.5,4,1,PARAGRAPH_START,8,kchor shy daiiin s shey dor chol daiin
+f2v,f2v.6,4,2,NEUTRAL_RESTART,11,dor chol chor chol keol chy chty daiin o tchor chan
+f2v,f2v.7,4,3,NEUTRAL_RESTART,7,daiin chotchey qoteeey chokeos chees chr cheaiin
+f2v,f2v.8,4,4,NEUTRAL_RESTART,5,chokoishe chor cheol chol dolody
+f7r,f7r.1,5,1,PARAGRAPH_START,7,fchodaiin shopchey qko shey qoos sheey charochy
+f7r,f7r.2,5,2,NEUTRAL_RESTART,9,dcheey keo r shor dold dchey kchey otchy cheody
+f7r,f7r.3,5,3,NEUTRAL_RESTART,6,oeeees cheodaiin sheey ytcheey qotchy chald
+f7r,f7r.4,5,4,NEUTRAL_RESTART,7,qokcho cho lochey daiin ychey kchos odaiin
+f7r,f7r.5,5,5,NEUTRAL_RESTART,2,oaiir otaiin
+f7r,f7r.6,6,1,PARAGRAPH_START,6,ksholo chey qotoees chkoldy otchor choaiin
+f7r,f7r.7,6,2,NEUTRAL_RESTART,8,dshoy cthol chol otchol dain shody shol chotchy
+f7r,f7r.8,6,3,NEUTRAL_RESTART,8,okchey deeeese choty qokchy shol keey choty dain
+f7r,f7r.9,6,4,NEUTRAL_RESTART,8,qokechy ol choiin chol cphey shckhy chochy kchod
+f7r,f7r.10,6,5,NEUTRAL_RESTART,5,s chain chor daiin chckhy
+f7v,f7v.1,7,1,PARAGRAPH_START,8,polyshy shey tchody qopchy otshol dy daiin tshodody
+f7v,f7v.2,7,2,NEUTRAL_RESTART,8,chochy cthy daiin qoky daiin cthol cthy cthd
+f7v,f7v.3,7,3,NEUTRAL_RESTART,12,qokchy dykchy chkeey kshy ky ty dor cheey o l cheol dy
+f7v,f7v.4,7,4,NEUTRAL_RESTART,8,oeear choschy dain sho kshy shol deees dol
+f7v,f7v.5,7,5,NEUTRAL_RESTART,4,dchodaiin qotchy cheey tcheey
+f7v,f7v.6,8,1,PARAGRAPH_START,9,kchor sheod sheodaiin sho daiin oksho lshol dair qos
+f7v,f7v.7,8,2,NEUTRAL_RESTART,6,chorcheor odaiin dol dol dor aiin
+f7v,f7v.8,8,3,NEUTRAL_RESTART,10,qoteeeo r cho cheeody qotchey tey o kcho r daiin
+f7v,f7v.9,8,4,NEUTRAL_RESTART,9,sho keeo daiir chokchy dor deol dy dol daiin
