@@ -1,0 +1,18 @@
+file,provenance,status
+voynich_common.py,New shared parser reconstructed from the audited project scripts and ZL3b conventions,reconstructed_and_tested
+a2_shelf_core.py,New implementation of the printed Appendix A state machine using the exact published inventory,reconstructed_and_tested
+01_prepare_data.py,New consolidation of surviving extraction logic,reconstructed_and_tested
+02_seven_layer_analysis.py,Reconstructed around the surviving fixed-four-fold Table 2 code and audited Table 1 definitions,reconstructed_from_surviving_code
+03_ngram_bifolium_classification.py,Reconstructed from the published method and archived output values; original 2000 holdout stream missing,reconstructed_near_match
+04_next_state_prediction.py,Reconstructed from the published method; original smoothing/fold seed missing,reconstructed_near_match
+05_inventory_reachability.py,New audit not used to generate the original paper results,new_audit
+06_a2_shelf_simulation.py,New unified implementation of the exact published 600+8 state machine,reconstructed_near_match
+07_cross_currier_reassignment.py,Reconstructed from stored stable-22 definition and verified to exactly reproduce 99/108.1667/1/180,reconstructed_exact
+07b_cross_currier_vm23_sensitivity.py,New sensitivity analysis,new_sensitivity
+08_a2_fitting_event_extraction.py,New extraction of empirical events supplied to the lost optimizer,reconstructed_input_only
+09_budget_sensitivity_reconstructed.py,Transparent new re-quantization around exact 600 inventory; not the original optimizer,reconstructed_not_original
+10_a2_ngram_null_models.py,Canonical-output wrapper adapted from the surviving null-model script,reconstructed_from_surviving_code
+original_surviving/a2_ngram_null_attestation_original.py,Unmodified surviving null-model script,surviving_original_code
+11_build_result_comparison.py,New audit compiler,new_audit
+12_run_all.py,New workflow orchestrator,new_infrastructure
+13_verify_package.py,New package integrity and numerical verifier,new_infrastructure
