@@ -1,0 +1,20 @@
+{
+  "events": 1184,
+  "class_counts": {
+    "START": 8,
+    "SECOND": 283,
+    "INTERNAL": 604,
+    "BOUNDARY": 257,
+    "RESTART": 32
+  },
+  "expected_counts": {
+    "START": 8,
+    "RESTART": 32,
+    "BOUNDARY": 257,
+    "SECOND": 283,
+    "INTERNAL": 604
+  },
+  "words": 297,
+  "lines": 40,
+  "paragraphs": 8
+}

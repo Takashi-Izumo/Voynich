@@ -1,0 +1,33 @@
+{
+  "distinct_main_inventory_rows": 430,
+  "physical_main_tablets": 600,
+  "active_compartments": 127,
+  "class_tablets": {
+    "RESTART": 35,
+    "SECOND": 146,
+    "BOUNDARY": 125,
+    "INTERNAL": 294
+  },
+  "class_distinct_rows": {
+    "RESTART": 9,
+    "SECOND": 69,
+    "BOUNDARY": 79,
+    "INTERNAL": 273
+  },
+  "safety_tablets": 14,
+  "start_tablets": 8,
+  "reachable_state_length_combinations": 289,
+  "reachable_active_compartments": 113,
+  "unreachable_active_compartments": 14,
+  "reachable_distinct_inventory_rows": 414,
+  "unreachable_distinct_inventory_rows": 16,
+  "reachable_physical_tablets": 584,
+  "unreachable_physical_tablets": 16,
+  "reachable_empty_state_length_combinations": 0,
+  "published_inventory_invariants": {
+    "main_tablets_expected": 600,
+    "start_tablets_expected": 8,
+    "safety_tablets_expected": 14
+  },
+  "interpretation": "Reachability is computed from [SPACE,SPACE] at word length 0 and from the three Paragraph START outputs at word length 1, using exactly the state update and stopping rules printed in Appendix A."
+}

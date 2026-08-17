@@ -1,0 +1,40 @@
+01	PARAGRAPH_START	kchy dy so chaiin shty qoty
+02	NEUTRAL_RESTART	dain ty kshy kechy daiin
+03	NEUTRAL_RESTART	kechy qokchy so chol shckhy dan odal
+04	NEUTRAL_RESTART	qotshol kchorchet chair ckhor chckhy chor
+05	NEUTRAL_RESTART	ols dan shckhy cphey kcheod dor cheese
+06	NEUTRAL_RESTART	sheod dal choteey chody o chty dlsaiis qoschy sho
+07	NEUTRAL_RESTART	qotchal sain ckhy ychey chey
+08	PARAGRAPH_START	kcheeeeo r al yky dcholdy ckhor cthor odan so
+09	NEUTRAL_RESTART	ytodaiin odaiin chody sheor ykchoch cheolsaii chorchorch chorchoke chckhy daiin shor
+10	NEUTRAL_RESTART	dchy cheod dkoosch chr sho shy chey
+11	NEUTRAL_RESTART	dol dor aiiny so l cphy sho kodaiin chkolsheo
+12	NEUTRAL_RESTART	s chor sholoda chory ckhol cphy cthy dodor al chey dol
+13	NEUTRAL_RESTART	qopchy chor daiisol dolain saiin
+14	PARAGRAPH_START	kol kchor cheese cheor aiiny shckhy dol chair
+15	NEUTRAL_RESTART	qkol saiin tchy tchod sho dchety cthd dor cthy
+16	NEUTRAL_RESTART	chodols chotol cholaii chal chor sho kcheey cthor
+17	NEUTRAL_RESTART	daiin sheeol sal daiin
+18	PARAGRAPH_START	fchol qoy chey ckhol cthols sholy qopchody qoy
+19	NEUTRAL_RESTART	chorchorch chkar dcholsy chodaiin qoy cphey olodan sheod dor chol kchy
+20	NEUTRAL_RESTART	kydy daiin tchoky chckhy saiiny chkol sheese
+21	NEUTRAL_RESTART	dkoosch chotaiin shan sal sheols
+22	PARAGRAPH_START	kol chy dor chodaiin qkoly dchor dlsaiin
+23	NEUTRAL_RESTART	qkodaii chol kcheeee chold sholdy dor ytchor ckhor sheor
+24	NEUTRAL_RESTART	shy dy chy chol chees qokeear
+25	NEUTRAL_RESTART	s shoy cheod sholdy kchokshy chey ykeear
+26	NEUTRAL_RESTART	ydaiin oeeain
+27	PARAGRAPH_START	kchy ckhor chold sho cheolsai chr
+28	NEUTRAL_RESTART	s chan chey choky dchy char air qokold
+29	NEUTRAL_RESTART	shty tshor ckhy daiisol chainy chal chaiir chckhy
+30	NEUTRAL_RESTART	qotchees cheeeey char sho l daiin oaiiir cheeeaiin
+31	NEUTRAL_RESTART	okeeey o lodaiin cthd dshor
+32	PARAGRAPH_START	fcholsal kchy cthy dshor dkol fodan choloch chodaiin
+33	NEUTRAL_RESTART	chair chaiin ykeoly dor qoty ykeor an daiil
+34	NEUTRAL_RESTART	sainy dody o tey chaiil kydal dyky deody chodai cheod daiiny tchy
+35	NEUTRAL_RESTART	otocholsh otcheor ckhor daiiny chkolshy dshor an yky
+36	NEUTRAL_RESTART	oaiisor otchal cphey cheaiiny
+37	PARAGRAPH_START	kechy okeosch chain saiir an oees sheor chol shty
+38	NEUTRAL_RESTART	chan choly kcheain chr oaiin ckhy
+39	NEUTRAL_RESTART	daiil dol dshor dol shey ckhor s dan ckhor aiin
+40	NEUTRAL_RESTART	sho kody ytochy sheky ykchey o lsheky chol dor

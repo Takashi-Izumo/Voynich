@@ -1,0 +1,9 @@
+{
+  "count_le": 1,
+  "definition": "VM23 including g; strict token extraction",
+  "maximum": 117,
+  "mean": 109.16666666666667,
+  "minimum": 99,
+  "observed": 99,
+  "p": 0.005555555555555556
+}

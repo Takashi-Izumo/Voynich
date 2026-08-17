@@ -1,0 +1,5 @@
+The complete 5,000-run outputs are included in outputs/null/.
+They were generated with code/10_a2_ngram_null_models.py, runs=5000, seed=20260817.
+The default run_all workflow reuses the archived outputs because full regeneration performs 30,000 simulations and is slow. Use:
+  python code/12_run_all.py --full-null
+or invoke code/10_a2_ngram_null_models.py directly to regenerate them.

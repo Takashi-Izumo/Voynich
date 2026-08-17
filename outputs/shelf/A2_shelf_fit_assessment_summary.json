@@ -1,0 +1,111 @@
+{
+  "paper_targets": {
+    "bigram_jsd": 0.03892,
+    "eight_plus_rate": 0.0117,
+    "hapax_legomena": 136.17,
+    "mean_word_length": 4.0186,
+    "neutral_restart_gallows": 0.0277,
+    "one_character_rate": 0.0446,
+    "paragraph_start_gallows": 1.0,
+    "trigram_jsd": 0.10608,
+    "word_boundary_jsd": 0.11462,
+    "word_length_sd": 1.6186,
+    "word_types": 188.54
+  },
+  "settings": {
+    "lines": 40,
+    "neutral_restarts": 32,
+    "paragraphs": 8,
+    "runs": 1000,
+    "sampling": "with replacement from fixed multiplicities",
+    "seed": 20260817,
+    "tokens_per_run": 297,
+    "word_boundary_jsd": "ordinary within-line boundaries only"
+  },
+  "summary": {
+    "bigram_jsd": {
+      "mean": 0.03898054599993121,
+      "p2_5": 0.02954856579278196,
+      "p50": 0.0386750647677099,
+      "p97_5": 0.04951279404285108,
+      "sd_across_runs": 0.005128344192200582
+    },
+    "dead_ends": {
+      "mean": 0.0,
+      "p2_5": 0.0,
+      "p50": 0.0,
+      "p97_5": 0.0,
+      "sd_across_runs": 0.0
+    },
+    "eight_plus_rate": {
+      "mean": 0.011693602693602693,
+      "p2_5": 0.0,
+      "p50": 0.010101010101010102,
+      "p97_5": 0.02356902356902357,
+      "sd_across_runs": 0.006012973122788293
+    },
+    "hapax_legomena": {
+      "mean": 136.028,
+      "p2_5": 117.0,
+      "p50": 136.0,
+      "p97_5": 155.0,
+      "sd_across_runs": 9.650347973000766
+    },
+    "mean_word_length": {
+      "mean": 4.01826936026936,
+      "p2_5": 3.8114478114478114,
+      "p50": 4.02020202020202,
+      "p97_5": 4.218855218855219,
+      "sd_across_runs": 0.10016631432727299
+    },
+    "neutral_restart_gallows": {
+      "mean": 0.02878125,
+      "p2_5": 0.0,
+      "p50": 0.03125,
+      "p97_5": 0.09375,
+      "sd_across_runs": 0.029361017283764196
+    },
+    "one_character_rate": {
+      "mean": 0.04452525252525252,
+      "p2_5": 0.020202020202020204,
+      "p50": 0.04377104377104377,
+      "p97_5": 0.0707070707070707,
+      "sd_across_runs": 0.01246147187298287
+    },
+    "paragraph_start_gallows": {
+      "mean": 1.0,
+      "p2_5": 1.0,
+      "p50": 1.0,
+      "p97_5": 1.0,
+      "sd_across_runs": 0.0
+    },
+    "trigram_jsd": {
+      "mean": 0.10608769254975516,
+      "p2_5": 0.08776115591716105,
+      "p50": 0.10601124278755258,
+      "p97_5": 0.12719602539400254,
+      "sd_across_runs": 0.010236820666737926
+    },
+    "word_boundary_jsd": {
+      "mean": 0.11375889901035047,
+      "p2_5": 0.0845810483994594,
+      "p50": 0.11332137063651548,
+      "p97_5": 0.14516488404266456,
+      "sd_across_runs": 0.015832653882395353
+    },
+    "word_length_sd": {
+      "mean": 1.6193038616614208,
+      "p2_5": 1.5109052061722856,
+      "p50": 1.6211483112217295,
+      "p97_5": 1.726358042735879,
+      "sd_across_runs": 0.054677482198180166
+    },
+    "word_types": {
+      "mean": 188.411,
+      "p2_5": 174.0,
+      "p50": 188.0,
+      "p97_5": 203.0,
+      "sd_across_runs": 7.473960061439986
+    }
+  }
+}

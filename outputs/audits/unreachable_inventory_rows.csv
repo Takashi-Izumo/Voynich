@@ -1,0 +1,17 @@
+state_1,state_2,output,stop_number,multiplicity,class,safety,reachable_under_published_rules
+a,l,o,7,1,INTERNAL,0,0
+a,l,d,7,1,INTERNAL,0,0
+a,l,s,7,1,INTERNAL,0,0
+a,r,o,7,1,INTERNAL,0,0
+cfh,SPACE,ch,8,1,BOUNDARY,1,0
+ckh,SPACE,ch,8,1,BOUNDARY,1,0
+cph,SPACE,ch,8,1,BOUNDARY,1,0
+cth,SPACE,ch,8,1,BOUNDARY,1,0
+f,SPACE,ch,8,1,BOUNDARY,1,0
+g,SPACE,ch,8,1,BOUNDARY,1,0
+i,l,d,7,1,INTERNAL,0,0
+l,y,sh,7,1,INTERNAL,0,0
+m,SPACE,ch,8,1,BOUNDARY,1,0
+q,SPACE,ch,8,1,BOUNDARY,1,0
+r,o,ch,5,1,INTERNAL,0,0
+y,sh,y,1,1,INTERNAL,0,0

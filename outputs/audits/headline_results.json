@@ -1,0 +1,306 @@
+{
+  "corpora": {
+    "A2": {
+      "corpus": "A2",
+      "tokens": 297,
+      "tokens_covered_by_VM23": 297,
+      "types": 195,
+      "types_covered_by_VM23": 195
+    },
+    "Herbal_A": {
+      "corpus": "Herbal_A",
+      "tokens": 7694,
+      "tokens_covered_by_VM23": 7676,
+      "types": 2270,
+      "types_covered_by_VM23": 2252
+    },
+    "full_VM_ngram": {
+      "corpus": "full_VM_ngram",
+      "tokens": 37608,
+      "tokens_covered_by_VM23": 37511,
+      "types": 7457,
+      "types_covered_by_VM23": 7384
+    },
+    "strict_VM_attestation": {
+      "corpus": "strict_VM_attestation",
+      "tokens": 37597,
+      "tokens_covered_by_VM23": 37500,
+      "types": 7455,
+      "types_covered_by_VM23": 7382
+    }
+  },
+  "table1": {
+    "analyzed_word_tokens": 6765,
+    "backward_rate": 0.1512842084426189,
+    "complete_bifolia": 21,
+    "covered_word_tokens": 6747,
+    "covered_word_types": 1994,
+    "forward_rate": 0.6163705646558123,
+    "observed_word_types": 2012,
+    "per_bifolium_backward_max": 0.19190283400809716,
+    "per_bifolium_backward_min": 0.1039426523297491,
+    "per_bifolium_backward_rates": [
+      0.15178571428571427,
+      0.1515695067264574,
+      0.12661498708010335,
+      0.15442764578833693,
+      0.11874272409778813,
+      0.18649045521292218,
+      0.15985790408525755,
+      0.1765873015873016,
+      0.17766497461928935,
+      0.1344621513944223,
+      0.1267427122940431,
+      0.17832167832167833,
+      0.12949640287769784,
+      0.1039426523297491,
+      0.1454352441613588,
+      0.12255772646536411,
+      0.18163054695562436,
+      0.15730337078651685,
+      0.13047530288909598,
+      0.1532934131736527,
+      0.19190283400809716
+    ],
+    "permutation_seed": 30,
+    "permutations": 50000,
+    "randomization_plus_one_tail": 3.999920001599968e-05,
+    "randomized_backward_mean": 0.3964944365813826,
+    "randomized_count_le_observed": 1,
+    "same_rate": 0.23234522690156875,
+    "surfaces": 84,
+    "token_coverage": 0.9973392461197339,
+    "type_coverage": 0.9910536779324056,
+    "word_internal_transitions": 20207,
+    "words_zero_backward": 0.617163183637172,
+    "words_zero_or_one_backward": 0.9341929746554024
+  },
+  "table2": {
+    "chance": {
+      "one_to_one": 0.047619047619047616,
+      "top1": 0.047619047619047616,
+      "top3": 0.14285714285714285
+    },
+    "feature_dimensions": {
+      "full_seven_layer": 366,
+      "layer_structure_only": 236
+    },
+    "full_seven_layer": {
+      "folds": [
+        [
+          0.2857142857142857,
+          0.7142857142857143,
+          0.23809523809523808,
+          3.5238095238095237
+        ],
+        [
+          0.38095238095238093,
+          0.8571428571428571,
+          0.6190476190476191,
+          2.619047619047619
+        ],
+        [
+          0.38095238095238093,
+          0.7142857142857143,
+          0.3333333333333333,
+          2.9047619047619047
+        ],
+        [
+          0.47619047619047616,
+          0.7619047619047619,
+          0.5238095238095238,
+          3.1904761904761907
+        ]
+      ],
+      "mean_rank": 3.0595238095238093,
+      "one_to_one": 0.4285714285714286,
+      "top1": 0.38095238095238093,
+      "top3": 0.7619047619047619
+    },
+    "layer_structure_only": {
+      "folds": [
+        [
+          0.09523809523809523,
+          0.5238095238095238,
+          0.14285714285714285,
+          4.666666666666667
+        ],
+        [
+          0.2857142857142857,
+          0.5714285714285714,
+          0.19047619047619047,
+          3.761904761904762
+        ],
+        [
+          0.23809523809523808,
+          0.5714285714285714,
+          0.19047619047619047,
+          4.142857142857143
+        ],
+        [
+          0.47619047619047616,
+          0.6190476190476191,
+          0.38095238095238093,
+          4.666666666666667
+        ]
+      ],
+      "mean_rank": 4.30952380952381,
+      "one_to_one": 0.22619047619047616,
+      "top1": 0.27380952380952384,
+      "top3": 0.5714285714285714
+    }
+  },
+  "ngram_bifolium": {
+    "2": {
+      "dimension": 240,
+      "mean_rank": 3.8969523809523814,
+      "one_to_one": 0.29069047619047833,
+      "top1": 0.31397619047619335,
+      "top3": 0.6153571428571454,
+      "top5": 0.7954285714285948
+    },
+    "3": {
+      "dimension": 891,
+      "mean_rank": 4.4010952380952455,
+      "one_to_one": 0.2638095238095257,
+      "top1": 0.25530952380952515,
+      "top3": 0.5744999999999987,
+      "top5": 0.7101190476190626
+    },
+    "4": {
+      "dimension": 1575,
+      "mean_rank": 5.262404761904762,
+      "one_to_one": 0.21590476190476443,
+      "top1": 0.2262142857142893,
+      "top3": 0.48202380952381224,
+      "top5": 0.6099761904761923
+    },
+    "5": {
+      "dimension": 1545,
+      "mean_rank": 6.503142857142865,
+      "one_to_one": 0.1910238095238115,
+      "top1": 0.20407142857143185,
+      "top3": 0.3891666666666741,
+      "top5": 0.5136904761904743
+    },
+    "bigram_vs_trigram_top1_runs": {
+      "bigram": 1327,
+      "tie": 337,
+      "trigram": 336
+    },
+    "settings": {
+      "bifolia": 21,
+      "runs": 2000,
+      "seed": 20260817,
+      "surfaces": 84
+    }
+  },
+  "next_state_prediction": {
+    "alpha_additive": 0.1,
+    "bigram_bits_per_state": 2.293238393944109,
+    "fold_seed": 123,
+    "glyph_states": 28,
+    "improvement_bits_per_state": 0.12376609325116487,
+    "next_state_predictions": 38547,
+    "pages": 95,
+    "paper_targets": {
+      "bigram_bits_per_state": 2.2931,
+      "trigram_bits_per_state": 2.1691
+    },
+    "trigram_bits_per_state": 2.169472300692944,
+    "words": 7694
+  },
+  "table3_shelf_fit_means": {
+    "bigram_jsd": 0.03898054599993121,
+    "dead_ends": 0.0,
+    "eight_plus_rate": 0.011693602693602693,
+    "hapax_legomena": 136.028,
+    "mean_word_length": 4.01826936026936,
+    "neutral_restart_gallows": 0.02878125,
+    "one_character_rate": 0.04452525252525252,
+    "paragraph_start_gallows": 1.0,
+    "trigram_jsd": 0.10608769254975516,
+    "word_boundary_jsd": 0.11375889901035047,
+    "word_length_sd": 1.6193038616614208,
+    "word_types": 188.411
+  },
+  "shelf_attestation_means": {
+    "A2": 0.5503501683501684,
+    "A2_type_rate": 0.37898111382088634,
+    "Generated_types": 188.4502,
+    "Hapax": 136.1486,
+    "HerbalA_outside_A2": 0.17465252525252525,
+    "HerbalA_type_rate": 0.6013119655159757,
+    "Outside_A2_total": 0.22015420875420877,
+    "Unattested": 0.22949562289562292,
+    "VM_outside_HerbalA": 0.0455016835016835,
+    "VM_total": 0.7705043771043771,
+    "VM_type_rate": 0.6611227029543365
+  },
+  "table4_length_matched_nulls": {
+    "uni": {
+      "VM_total": 0.12369831649831652,
+      "Outside_A2_total": 0.08968619528619529
+    },
+    "bi": {
+      "VM_total": 0.7725838383838384,
+      "Outside_A2_total": 0.28603097643097647
+    },
+    "tri": {
+      "VM_total": 0.8762175084175083,
+      "Outside_A2_total": 0.22800269360269357
+    }
+  },
+  "cross_currier_DG": {
+    "B_bifolia": [
+      "D:2",
+      "E:1",
+      "E:2",
+      "F:1",
+      "F:3",
+      "G:2"
+    ],
+    "active_state_definition": "stable-22 word-internal two-glyph contexts with at least one observed following glyph",
+    "allocations": 180,
+    "capacity": "1|2|2|1",
+    "count_less_or_equal_observed": 1,
+    "maximum": 116,
+    "minimum": 99,
+    "observed": 99,
+    "one_sided_exact_p": 0.005555555555555556,
+    "reassignment_mean": 108.16666666666667
+  },
+  "inventory_reachability": {
+    "active_compartments": 127,
+    "class_distinct_rows": {
+      "BOUNDARY": 79,
+      "INTERNAL": 273,
+      "RESTART": 9,
+      "SECOND": 69
+    },
+    "class_tablets": {
+      "BOUNDARY": 125,
+      "INTERNAL": 294,
+      "RESTART": 35,
+      "SECOND": 146
+    },
+    "distinct_main_inventory_rows": 430,
+    "interpretation": "Reachability is computed from [SPACE,SPACE] at word length 0 and from the three Paragraph START outputs at word length 1, using exactly the state update and stopping rules printed in Appendix A.",
+    "physical_main_tablets": 600,
+    "published_inventory_invariants": {
+      "main_tablets_expected": 600,
+      "safety_tablets_expected": 14,
+      "start_tablets_expected": 8
+    },
+    "reachable_active_compartments": 113,
+    "reachable_distinct_inventory_rows": 414,
+    "reachable_empty_state_length_combinations": 0,
+    "reachable_physical_tablets": 584,
+    "reachable_state_length_combinations": 289,
+    "safety_tablets": 14,
+    "start_tablets": 8,
+    "unreachable_active_compartments": 14,
+    "unreachable_distinct_inventory_rows": 16,
+    "unreachable_physical_tablets": 16
+  }
+}

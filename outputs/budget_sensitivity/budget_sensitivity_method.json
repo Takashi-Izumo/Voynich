@@ -1,0 +1,16 @@
+{
+  "budgets": [
+    475,
+    500,
+    525,
+    550,
+    575,
+    600,
+    625,
+    650
+  ],
+  "quantization": "Every one of the 430 published branches receives at least one tablet. For budgets below 600, additional tablets are apportioned by largest remainder in proportion to published multiplicity minus one. At 600 the exact published inventory is recovered. Above 600, added tablets are apportioned in proportion to the published multiplicities.",
+  "runs_per_budget": 250,
+  "seed_rule": "20260817 + budget*1000",
+  "status": "fresh reconstructed sensitivity analysis; not the lost original optimizer"
+}

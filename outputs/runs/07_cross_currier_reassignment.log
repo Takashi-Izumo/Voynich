@@ -1,0 +1,19 @@
+{
+  "active_state_definition": "stable-22 word-internal two-glyph contexts with at least one observed following glyph",
+  "B_bifolia": [
+    "D:2",
+    "E:1",
+    "E:2",
+    "F:1",
+    "F:3",
+    "G:2"
+  ],
+  "capacity": "1|2|2|1",
+  "allocations": 180,
+  "observed": 99,
+  "reassignment_mean": 108.16666666666667,
+  "minimum": 99,
+  "maximum": 116,
+  "count_less_or_equal_observed": 1,
+  "one_sided_exact_p": 0.005555555555555556
+}

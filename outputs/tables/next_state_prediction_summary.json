@@ -1,0 +1,15 @@
+{
+  "alpha_additive": 0.1,
+  "bigram_bits_per_state": 2.293238393944109,
+  "fold_seed": 123,
+  "glyph_states": 28,
+  "improvement_bits_per_state": 0.12376609325116487,
+  "next_state_predictions": 38547,
+  "pages": 95,
+  "paper_targets": {
+    "bigram_bits_per_state": 2.2931,
+    "trigram_bits_per_state": 2.1691
+  },
+  "trigram_bits_per_state": 2.169472300692944,
+  "words": 7694
+}
